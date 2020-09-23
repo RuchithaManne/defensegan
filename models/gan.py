@@ -15,7 +15,7 @@
 
 """Contains the GAN implementations of the abstract model class."""
 
-import cPickle
+import pickle
 import os
 import time
 
