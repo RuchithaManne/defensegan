@@ -20,7 +20,7 @@
 
 defined here."""
 
-import cPickle
+import pickle
 import os
 
 import numpy as np
